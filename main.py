@@ -21,6 +21,7 @@ def primeGenerator(M):
     return result
 
 def main():
+    print('primenumber generator')
     print(primeGenerator(100))
 
 
