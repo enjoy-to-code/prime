@@ -23,7 +23,7 @@ def primeGenerator(M):
 def main():
     print('primenumber generator')
     print(primeGenerator(100))
-
+    print('program fisished')
 
 if __name__ == "__main__":
     main()
